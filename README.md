@@ -1,5 +1,5 @@
 # ReadWise
-2nd place @ HackOrange
+2nd place @ HackOrange. Improve your reading comprehension and speed with ReadWise.  Read passages, answer quizzes, and receive a speed score plus tailored book recommendations based on your results.
 
 ## Inspiration
 
