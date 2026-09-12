@@ -2,8 +2,6 @@
 
 **🥈 2nd place @ HackOrange.**
 
-![ReadWise’s reading room, with a passage library and reading journal](docs/images/reading-room.png)
-
 Improve your reading comprehension and speed with ReadWise. Read passages, answer quizzes, and receive a speed score plus tailored book recommendations based on your results.
 
 ## What it does
