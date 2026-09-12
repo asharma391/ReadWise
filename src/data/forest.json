@@ -1,0 +1,65 @@
+{
+  "id": "hidden-glade",
+  "title": "The Hidden Glade",
+  "category": "Nature",
+  "level": "Descriptive",
+  "description": "Step into a quiet forest, where the smallest details tell a story.",
+  "paragraphs": [
+    "In the heart of the verdant forest, nestled amidst a canopy of emerald foliage, lay a hidden glade, untouched by human hands.",
+    "The chirping of birds and rustling of leaves lent a melodic charm to the idyllic scene.",
+    "A gentle breeze carried the fragrant scent of wildflowers, while the warm sun caressed the skin with a soft glow.",
+    "Suddenly, a twig snapped, interrupting the peaceful serenade.",
+    "A young doe emerged from the thicket, her large brown eyes scanning the surroundings with caution.",
+    "She took a tentative step forward, her slender legs trembling slightly, before finally relaxing as she realized there was no danger."
+  ],
+  "questions": [
+    {
+      "id": "forest-1",
+      "prompt": "What sounds can be heard in the glade?",
+      "options": [
+        "The chirping of birds",
+        "The honking of cars",
+        "The barking of dogs",
+        "The roaring of planes"
+      ],
+      "answer": 0,
+      "explanation": "The passage names the chirping of birds and the rustling of leaves."
+    },
+    {
+      "id": "forest-2",
+      "prompt": "Where is the glade located?",
+      "options": [
+        "On the edge of a cliff",
+        "In the heart of a forest",
+        "In the middle of a desert",
+        "None of the above"
+      ],
+      "answer": 1,
+      "explanation": "The opening sentence places the glade in the heart of the forest."
+    },
+    {
+      "id": "forest-3",
+      "prompt": "Which of the following best describes the author's use of descriptive language in the passage?",
+      "options": [
+        "Sparse and minimalistic",
+        "Repetitive and dull",
+        "Vivid and evocative",
+        "Incoherent and confusing"
+      ],
+      "answer": 2,
+      "explanation": "Details such as emerald foliage and the fragrant scent of wildflowers create vivid imagery."
+    },
+    {
+      "id": "forest-4",
+      "prompt": "What happens when the young doe emerges from the thicket?",
+      "options": [
+        "She starts grazing on the wildflowers",
+        "She runs away as soon as she sees something moving",
+        "She attacks the source of the noise",
+        "She takes a few cautious steps forward and then relaxes"
+      ],
+      "answer": 3,
+      "explanation": "The doe checks her surroundings, takes a tentative step, and then relaxes."
+    }
+  ]
+}
